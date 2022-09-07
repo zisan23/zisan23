@@ -13,7 +13,7 @@ I'm currently completing my B.Sc degree from CSEDU<br>
     </tr>
     <tr>
         <td>Programming Language</td>
-        <td> C, C++ </td>
+        <td> C, C++, html </td>
     </tr>
     <tr>
         <td> Learning </td>
