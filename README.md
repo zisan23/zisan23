@@ -13,11 +13,11 @@ I'm currently completing my B.Sc degree from CSEDU<br>
     </tr>
     <tr>
         <td>Programming Language</td>
-        <td> C, C++, html, Java </td>
+        <td> C, C++, html, Java, CSS </td>
     </tr>
     <tr>
         <td> Learning </td>
-        <td> Java Script, CSS </td>
+        <td> Java Script </td>
     </tr>
 </table>
 
