@@ -17,7 +17,7 @@ I'm currently completing my B.Sc degree from CSEDU<br>
     </tr>
     <tr>
         <td> Learning </td>
-        <td> Java Script </td>
+        <td> Java Script, Python, Kotlin </td>
     </tr>
 </table>
 
