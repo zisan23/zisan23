@@ -9,7 +9,7 @@ I'm currently completing my B.Sc degree from CSEDU<br>
 <table border = "2" align = "center" bgcolor = "#0000FC">
     <tr>
         <td> My interest </td>
-        <td> Hardware Development</td>
+        <td> Hardware Development, Machine Learning, Reinforcement learning </td>
     </tr>
     <tr>
         <td>Programming Language</td>
