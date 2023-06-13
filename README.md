@@ -26,9 +26,15 @@ I'm currently completing my B.Sc degree from CSEDU<br>
 <em>CF: Hunter__X
 CC: mastermind_zm</em>
 
+
+
 - 📫 mail: zisanmahmud12002060[at]gmail.com
 - ⓕ Zisan Mahmud
 - Insta: zisan__m_
 - LinkedIn: https://www.linkedin.com/in/zisan-mahmud-2a76a824b
 
-<blink><font color = "#000199">See yaaaa!!!!</font></blink>
+## Git Hub Status
+
+<img src = "https://komarev.com/ghpvc/?username=zisan23&&style=media_type" align = "left">
+
+<img src = "https://github-readme-stats.vercel.app/api?username=zisan23&show_icons=true&theme=tokyonight" align = "right"> <br>
