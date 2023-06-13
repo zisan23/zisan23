@@ -1,4 +1,4 @@
-<blink>- 👋 Hi</blink> I'm <i>Zisan Mahmud. I'm a teen aged boy and studying Computer Science and Engeneering<br>
+👋 Hi I'm <i>Zisan Mahmud</i>. I'm a teen aged boy and studying Computer Science and Engeneering<br>
 
 <b>School</b> : Motijheel Govt. Boy's High School<br>
 <b>College</b> : Notre Dame College<br>
@@ -21,17 +21,13 @@ I'm currently completing my B.Sc degree from CSEDU<br>
     </tr>
 </table>
 
-<blink>Welcome everyone to my Universe.</blink>😉
-
-<em>CF: Hunter__X
+<em>CF: Hunter__X <br>
 CC: mastermind_zm</em>
 
-
-
-- 📫 mail: zisanmahmud12002060[at]gmail.com
-- ⓕ Zisan Mahmud
-- Insta: zisan__m_
-- LinkedIn: https://www.linkedin.com/in/zisan-mahmud-2a76a824b
+- 📫 mail: ```zisanmahmud12002060[at]gmail.com```
+- ⓕ : <a href = "https://www.facebook.com/profile.php?id=100012051467690">Zisan Mahmud </a>
+- Instagram : <a href = "https://www.instagram.com/zisan__m_/">zisan__m_ </a>
+- LinkedIn : <a href = "https://www.linkedin.com/in/zisan-mahmud-2a76a824b"> Zisan Mahmud </a>
 
 ## Git Hub Status
 
