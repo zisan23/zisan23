@@ -35,8 +35,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zisan23&theme=solarized-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zisan23&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=zisan23&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
-
 
 ---
